@@ -1,2 +1,12 @@
 # IoTL-b
-![WhatsApp Image 2023-06-03 at 23 58 12](https://github.com/vedant1508/IoTL-b/assets/966898/2c6c7acc-08a3-4b0a-b327-d070be967fde)
+![16×2 lcd](https://github.com/vedant1508/IoTL-b/assets/96689068/bb8e2ed8-52fe-442a-afb7-79712bf0e28d)
+![20230530_103106](https://github.com/vedant1508/IoTL-b/assets/96689068/10d0ec6f-aae4-47f8-aa53-cfd0f7438afc)
+![20230530_112238](https://github.com/vedant1508/IoTL-b/assets/96689068/c78e9bd7-bdbd-493d-9551-4619ea5fd9e6)
+![Bluetooth ](https://github.com/vedant1508/IoTL-b/assets/96689068/94dae348-eb0b-426a-a938-6e61ee7389f2)
+![Button](https://github.com/vedant1508/IoTL-b/assets/96689068/e81279d7-5629-4463-9536-cd2eed87288b)
+![IMG-20230604-WA0000](https://github.com/vedant1508/IoTL-b/assets/96689068/05ce822a-a4ed-41f8-91c7-6404fff4a54d)
+![IR](https://github.com/vedant1508/IoTL-b/assets/96689068/dfb2607f-1438-4e69-80a7-8957ec964cc0)
+![Led blink](https://github.com/vedant1508/IoTL-b/assets/96689068/e6fccb8f-5028-44b9-b329-bcc40034d9aa)
+![Temp all](https://github.com/vedant1508/IoTL-b/assets/96689068/0253f4b1-db9d-462f-8bb8-1133ed6db220)
+![6 counter led](https://github.com/vedant1508/IoTL-b/assets/96689068/6679ed9a-5ead-47c5-b93c-dd98b9fdda9c)
+![13 pizo](https://github.com/vedant1508/IoTL-b/assets/96689068/6b11b3de-fd69-489b-8a6e-a484449895b0)
